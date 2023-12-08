@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "slugify": "^1.6.6"
+  },
+  "name": "projet",
+  "description": "formation nodes \r js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Kim",
+  "license": "ISC"
+}
